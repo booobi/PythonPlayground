@@ -1,28 +1,12 @@
-# # stepen
-# def pow(number, power):
-#     if (power == 1):
-#         return number
-#     else:
-#         return number * pow(number, power - 1)
+# palindrom
+# pop - true and isPalindrom(o)
+# o - true - return
 
-# print pow(2,10)
+# booob - true - and isPalindrom(ooo)
+# ooo - true - and isPalindrom(o)
+# o - true - return
 
-#fibonachi
-fibSeqience = []
+# boob - true - and isPalindrom(oo)
+# oo - true and isPalincrom(None)
+# None - true - return
 
-def fibs(amountOfNumbers):
-
-    if amountOfNumbers == 1:
-        otgovor = 0
-    elif amountOfNumbers == 2:
-        otgovor = 1 + fibs(1)
-    else:
-        return fibs(amountOfNumbers - 1) + fibs(amountOfNumbers - 2)
-
-    fibSeqience.append(otgovor)
-    return otgovor
- 
-fibs(3)
-print fibSeqience
-
-#palindrom
