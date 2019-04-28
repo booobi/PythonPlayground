@@ -1,0 +1,319 @@
+<item rdf:about="https://tech.slashdot.org/story/19/04/23/192257/microsoft-displays-warning-messages-in-windows-7-about-the-impending-end-of-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Displays Warning Messages in Windows 7 About the Impending End of Support</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rTc9qEBXDPM/microsoft-displays-warning-messages-in-windows-7-about-the-impending-end-of-support</link>
+<description>Windows 7 users have started to report the appearance of a pop-up message from Microsoft informing them that support for the operating system is coming to an end. From a report: While this will not come as a surprise to everyone, not all Windows 7 users will be aware that Microsoft is on the verge of dropping the aging OS. We have already seen pop-ups encouraging users to update to Windows 10 but now Microsoft is turning up the pressure, telling Windows 7 users: "After 10 years, support for Windows 7 is nearing the end." People have been reporting that the message started appearing as early as April 18, but not all Windows 7 users are seeing it yet. The message includes a link to a Microsoft website that encourages people to backup their data, buy a modern computer and make the jump to Windows 10.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Displays+Warning+Messages+in+Windows+7+About+the+Impending+End+of+Support%3A+http%3A%2F%2Fbit.ly%2F2GtBXoz"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F19%2F04%2F23%2F192257%2Fmicrosoft-displays-warning-messages-in-windows-7-about-the-impending-end-of-support%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/19/04/23/192257/microsoft-displays-warning-messages-in-windows-7-about-the-impending-end-of-support?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/19/04/23/192257/microsoft-displays-warning-messages-in-windows-7-about-the-impending-end-of-support?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13826444&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rTc9qEBXDPM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2019-04-23T20:05:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>time-to-move-on</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>10</slash:comments>
+<slash:hit_parade>10,9,6,5,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/19/04/23/192257/microsoft-displays-warning-messages-in-windows-7-about-the-impending-end-of-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/19/04/23/1918234/faa-paves-way-for-alphabet-unit-to-make-first-us-drone-deliveries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FAA Paves Way For Alphabet Unit To Make First US Drone Deliveries</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tvOInJK9nj4/faa-paves-way-for-alphabet-unit-to-make-first-us-drone-deliveries</link>
+<description>Alphabet's Wing Aviation unit on Tuesday got the okay to start delivering goods by drone in Virginia later this year, making the sister unit of search engine Google the first company to get U.S. air carrier certification, the Federal Aviation Administration said. From a report: This means Wing can begin a commercial service delivering goods from local businesses to homes, which includes flights beyond visual line of site and over people, the FAA and Wing said. Wing Aviation plans to start commercial package delivery in Blacksburg, Virginia later this year. Wing partnered with the Mid-Atlantic Aviation Partnership and Virginia Tech, as one of the participants in the Transportation Department's Unmanned Aircraft Systems Integration Pilot Program.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FAA+Paves+Way+For+Alphabet+Unit+To+Make+First+US+Drone+Deliveries%3A+http%3A%2F%2Fbit.ly%2F2GArIPo"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F19%2F04%2F23%2F1918234%2Ffaa-paves-way-for-alphabet-unit-to-make-first-us-drone-deliveries%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/19/04/23/1918234/faa-paves-way-for-alphabet-unit-to-make-first-us-drone-deliveries?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/19/04/23/1918234/faa-paves-way-for-alphabet-unit-to-make-first-us-drone-deliveries?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13826490&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tvOInJK9nj4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2019-04-23T19:25:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>shape-of-things-to-come</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>16</slash:comments>
+<slash:hit_parade>16,16,5,4,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/19/04/23/1918234/faa-paves-way-for-alphabet-unit-to-make-first-us-drone-deliveries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/19/04/23/1842247/computers-not-tv-are-to-blame-for-increase-in-us-sitting-time-study-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Computers, Not TV, Are To Blame For Increase in US Sitting Time, Study Says</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4cCnvMhV5ac/computers-not-tv-are-to-blame-for-increase-in-us-sitting-time-study-says</link>
+<description>There's a key culprit in the battle against sitting. Time spent watching TV and videos has remained consistently high in the United States over the past 15 years, but time sitting at a computer has increased dramatically, new research finds. From a report: Leisure-time computer use increased between 4.8% and 38% for various age groups between 2001 and 2016, said Yin Cao, senior author of the new study and an assistant professor of surgery at Washington University School of Medicine in St. Louis. Overall, up to 43% of the US population used a computer for two or more hours a day and up to 25% used a computer for three or more hours each day in 2016. The result of these increases: Teens spent about 8.2 hours a day sitting while adults sat for 6.4 hours a day. Both groups saw a one-hour increase over the decade ending in 2016, Cao said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Computers%2C+Not+TV%2C+Are+To+Blame+For+Increase+in+US+Sitting+Time%2C+Study+Says%3A+http%3A%2F%2Fbit.ly%2F2GsRip9"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F19%2F04%2F23%2F1842247%2Fcomputers-not-tv-are-to-blame-for-increase-in-us-sitting-time-study-says%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/19/04/23/1842247/computers-not-tv-are-to-blame-for-increase-in-us-sitting-time-study-says?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/19/04/23/1842247/computers-not-tv-are-to-blame-for-increase-in-us-sitting-time-study-says?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13826378&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4cCnvMhV5ac" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2019-04-23T18:45:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>captain-obvious</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,29,16,14,3,2,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/19/04/23/1842247/computers-not-tv-are-to-blame-for-increase-in-us-sitting-time-study-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/19/04/23/186234/apple-is-working-to-speed-up-repairs-of-its-bad-macbook-keyboards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple is Working To Speed Up Repairs of Its Bad MacBook Keyboards</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xgqraMnP5fg/apple-is-working-to-speed-up-repairs-of-its-bad-macbook-keyboards</link>
+<description>Apple is now conducting repairs of MacBook, MacBook Air, and MacBook Pro keyboards on-site at its stores, and it's promising a next-day turnaround for pickup in many cases. From a report: The company previously sent machines out to its repair depot, but it's now telling its Genius Bar employees to handle "most" keyboard-related repairs at the store "until further notice." The company wrote in a service memo that "additional service parts have been shipped to stores to support the increased volume." Apple's attempt to expedite the keyboard repair process is just the latest development in the ongoing saga of the much-maligned butterfly keyboards that are found on all modern Mac laptops. The keys are vulnerable to sudden failure and unpredictable behavior if dust or outside debris makes its way into the mechanism.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+is+Working+To+Speed+Up+Repairs+of+Its+Bad+MacBook+Keyboards%3A+http%3A%2F%2Fbit.ly%2F2URCVFb"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F19%2F04%2F23%2F186234%2Fapple-is-working-to-speed-up-repairs-of-its-bad-macbook-keyboards%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/19/04/23/186234/apple-is-working-to-speed-up-repairs-of-its-bad-macbook-keyboards?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/19/04/23/186234/apple-is-working-to-speed-up-repairs-of-its-bad-macbook-keyboards?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13826280&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xgqraMnP5fg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2019-04-23T18:07:00+00:00</dc:date>
+<dc:subject>macbook</dc:subject>
+<slash:department>for-what-it-is-worth</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>43</slash:comments>
+<slash:hit_parade>43,42,21,17,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/19/04/23/186234/apple-is-working-to-speed-up-repairs-of-its-bad-macbook-keyboards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/19/04/23/1723254/shadowhammer-targets-multiple-companies-asus-was-just-one-of-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>ShadowHammer Targets Multiple Companies, ASUS Was Just One of Them</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gZftxBaBkjQ/shadowhammer-targets-multiple-companies-asus-was-just-one-of-them</link>
+<description>ASUS was not the only company targeted by supply-chain attacksduring the ShadowHammer hacking operation as discovered by Kaspersky, with at least six other organizations having been infiltrated by the attackers. From a report: As further found out by Kaspersky's security researchers, ASUS' supply chain was successfully compromised by trojanizing one of the company's notebook software updaters named ASUS Live Updater which eventually was downloaded and installed on the computers of tens of thousands of customers according to experts' estimations. The tampered with binaries were signed using a legitimate certificate which helped the attackers avoid breaking the digital signature and having the malicious updater flagged. 
+
+Among the similarities, they discovered that the ASUS samples and the newly found ones were both using very similar algorithms to calculate API function hashes, while the IPHLPAPI.dll was heavily used within all malware samples for various reasons. As in the ASUS case, the samples were using digitally signed binaries from three other Asian vendors: Electronics Extreme, authors of the zombie survival game called Infestation: Survivor Stories. Innovative Extremist, a company that provides Web and IT infrastructure services but also used to work in game development. Zepetto, the South Korean company that developed the video game Point Blank. Besides these three Asian gaming companies, Kaspersky was also able to find three other organizations which were successfully compromised, "another video gaming company, a conglomerate holding company and a pharmaceutical company, all in South Korea."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=ShadowHammer+Targets+Multiple+Companies%2C+ASUS+Was+Just+One+of+Them%3A+http%3A%2F%2Fbit.ly%2F2UTbcUw"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F19%2F04%2F23%2F1723254%2Fshadowhammer-targets-multiple-companies-asus-was-just-one-of-them%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/19/04/23/1723254/shadowhammer-targets-multiple-companies-asus-was-just-one-of-them?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/19/04/23/1723254/shadowhammer-targets-multiple-companies-asus-was-just-one-of-them?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13826166&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/gZftxBaBkjQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2019-04-23T17:24:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>security-woes</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>16</slash:comments>
+<slash:hit_parade>16,16,3,3,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/19/04/23/1723254/shadowhammer-targets-multiple-companies-asus-was-just-one-of-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/19/04/23/1640225/microsoft-paint-to-remain-part-of-windows-10-after-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Paint To Remain Part of Windows 10 After All</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tvYCNl7zUmc/microsoft-paint-to-remain-part-of-windows-10-after-all</link>
+<description>Microsoft had been planning to remove its popular Paint app from Windows 10, but the company has now reversed course. From a report: The software maker had been warning Windows 10 users for months that Paint would be removed, and those warnings vanished in the latest May 2019 Update (1903). "Yes, MSPaint will be included in 1903," says Brandon LeBlanc, a senior program manager for Windows at Microsoft. "It'll remain included in Windows 10 for now." LeBlanc didn't reveal why Microsoft had removed its warnings, but it's clear Paint will no longer be removed from Windows 10 in the immediate future. Microsoft previously marked Paint as "deprecated," meaning it wasn't in active development and could be removed in future releases of Windows.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Paint+To+Remain+Part+of+Windows+10+After+All%3A+http%3A%2F%2Fbit.ly%2F2GnWQkI"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F19%2F04%2F23%2F1640225%2Fmicrosoft-paint-to-remain-part-of-windows-10-after-all%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/19/04/23/1640225/microsoft-paint-to-remain-part-of-windows-10-after-all?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/19/04/23/1640225/microsoft-paint-to-remain-part-of-windows-10-after-all?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13826052&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tvYCNl7zUmc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2019-04-23T16:43:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>change-of-heart</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>79</slash:comments>
+<slash:hit_parade>79,77,38,34,5,4,2</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/19/04/23/1640225/microsoft-paint-to-remain-part-of-windows-10-after-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/19/04/23/1549241/softbank-founder-masayoshi-son-lost-130-million-on-bitcoin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>SoftBank Founder Masayoshi Son Lost $130 Million on Bitcoin</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/H0lIqo0Dkg4/softbank-founder-masayoshi-son-lost-130-million-on-bitcoin</link>
+<description>Masayoshi Son, the billionaire founder of SoftBank Group, made a huge personal bet on bitcoin just as prices for the digital currency peaked, losing more than $130 million when he sold out, WSJ (paywalled) reported Tuesday, citing people familiar with the matter. From the report (alternative source): Mr. Son, who launched the world's biggest venture-capital fund on the strength of his long-term investing acumen, made the investment at the recommendation of a well-known bitcoin booster, whose investment firm SoftBank bought in 2017, the people said. The investment came at the peak of the bitcoin frenzy in late 2017 after the digital currency had already risen more than 10 fold that year. The exact size of the bet couldn't be determined, but bitcoin peaked at nearly $20,000 in mid December 2017 and Mr. Son sold in early 2018 after bitcoin had plummeted, the people said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=SoftBank+Founder+Masayoshi+Son+Lost+%24130+Million+on+Bitcoin%3A+http%3A%2F%2Fbit.ly%2F2GvyeH2"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F19%2F04%2F23%2F1549241%2Fsoftbank-founder-masayoshi-son-lost-130-million-on-bitcoin%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/19/04/23/1549241/softbank-founder-masayoshi-son-lost-130-million-on-bitcoin?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/19/04/23/1549241/softbank-founder-masayoshi-son-lost-130-million-on-bitcoin?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13825904&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/H0lIqo0Dkg4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2019-04-23T16:02:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>major-bets</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>102</slash:comments>
+<slash:hit_parade>102,102,49,46,4,2,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/19/04/23/1549241/softbank-founder-masayoshi-son-lost-130-million-on-bitcoin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/19/04/23/1517211/nvidia-launches-geforce-gtx-16-series-turing-gaming-laptop-gpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NVIDIA Launches GeForce GTX 16 Series Turing Gaming Laptop GPUs</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/S9eLCeMaqhU/nvidia-launches-geforce-gtx-16-series-turing-gaming-laptop-gpus</link>
+<description>MojoKid writes: NVIDIA has launched a new family of more budget friendly Turing graphics chips for gaming laptops, called the GeForce GTX 1650, GeForce GTX 1660, and GeForce GTX 1660 Ti. The new GPUs will power roughly 80 different OEM mainstream gaming notebook designs, starting in the $799 price range. Compared to a 4-year-old gaming laptop with a GeForce GTX 960M, NVIDIA says that a modern counterpart equipped with a GeForce GTX 1660 Ti can deliver 4x the performance in today's battle royale-style games like Apex Legends, Fortnite, and PUBG. As for the GeForce GTX 1650, NVIDIA is promising a 2.5x performance advantage compared to the GTX 950M and a 1.7x advantage compared to the previous generation GTX 1050. Gamers should expect consistent 60 fps performance in the above-mentioned gaming titles at 1080p, though the company didn't specifically mention GTX 1660 vs 1060 performance comparisons. According to NVIDIA, every major OEM will be releasing GeForce GTX 16 Series laptops, including well-known brands like ASUS, Dell/Alienware, Acer, Hewlett-Packard, and Lenovo (among others).&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NVIDIA+Launches+GeForce+GTX+16+Series+Turing+Gaming+Laptop+GPUs%3A+http%3A%2F%2Fbit.ly%2F2GsjdWq"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F19%2F04%2F23%2F1517211%2Fnvidia-launches-geforce-gtx-16-series-turing-gaming-laptop-gpus%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/19/04/23/1517211/nvidia-launches-geforce-gtx-16-series-turing-gaming-laptop-gpus?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/19/04/23/1517211/nvidia-launches-geforce-gtx-16-series-turing-gaming-laptop-gpus?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13825816&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/S9eLCeMaqhU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2019-04-23T15:22:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>aggressive-expansion</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>19</slash:comments>
+<slash:hit_parade>19,15,9,9,2,1,1</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/19/04/23/1517211/nvidia-launches-geforce-gtx-16-series-turing-gaming-laptop-gpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/19/04/23/1443232/intels-9th-gen-mobile-core-chips-aim-for-the-high-end-rocking-8-cores-at-up-to-5ghz-speeds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Intel's 9th-Gen Mobile Core Chips Aim For the High End, Rocking 8 Cores at Up To 5GHz Speeds</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yPUQjO6B2_U/intels-9th-gen-mobile-core-chips-aim-for-the-high-end-rocking-8-cores-at-up-to-5ghz-speeds</link>
+<description>Intel debuted six new 9th-gen mobile H-series Core chips on Tuesday -- with its fastest, the Core i9-9980HK, soaring to a new high-water mark: 8 cores, 16 threads, and a whopping 5GHz clock speed, after boost. From a report: After launching its 9th-generation Core chips for desktop PCs last October, Intel has now brought that same capability to notebooks. Intel executives said systems based upon the 9th-gen chips are expected to debut shortly. All the chips are based on the "Coffee Lake Refresh" (Coffee Lake-R) architecture, and all are fabricated on a 14nm process. Last year's 8th-gen mobile Core chips topped out at 4.8GHz, and offered only 6 cores. 
+
+Though theoretically anyone can benefit from the increased performance, Intel is aiming at two particular segments: professional content creators and gamers. Intel said it expects its 9th-gen Core i9-9980HK (8 cores/16 threads, 2.4GHz/5GHz turbo) to deliver up to 18 percent higher frames per second in games and 28 percent faster 4K video editing than the 8th-gen Core i9-8950HK (6 cores/12 threads, 2.9GHz/4.8GHz turbo). When performing general office tasks and web browsing, the chips can run in a low-power mode, with an "aspirational goal" of ten hours of battery life, or just an hour while gaming, executives said. Price, performance, and power are the old battlefronts, though. Further reading: All the Desktop and Mobile 45W CPUs Announced (AnandTech).&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Intel's+9th-Gen+Mobile+Core+Chips+Aim+For+the+High+End%2C+Rocking+8+Cores+at+Up+To+5GHz+Speeds%3A+http%3A%2F%2Fbit.ly%2F2GrlVLM"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F19%2F04%2F23%2F1443232%2Fintels-9th-gen-mobile-core-chips-aim-for-the-high-end-rocking-8-cores-at-up-to-5ghz-speeds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/19/04/23/1443232/intels-9th-gen-mobile-core-chips-aim-for-the-high-end-rocking-8-cores-at-up-to-5ghz-speeds?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/19/04/23/1443232/intels-9th-gen-mobile-core-chips-aim-for-the-high-end-rocking-8-cores-at-up-to-5ghz-speeds?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13825696&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/yPUQjO6B2_U" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2019-04-23T14:44:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>moving-forward</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>55</slash:comments>
+<slash:hit_parade>55,54,23,18,2,1,1</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/19/04/23/1443232/intels-9th-gen-mobile-core-chips-aim-for-the-high-end-rocking-8-cores-at-up-to-5ghz-speeds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/19/04/23/1230218/the-new-microsoft-edge-sometimes-impersonates-other-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The New Microsoft Edge Sometimes Impersonates Other Browsers</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/poB1XrXZOwg/the-new-microsoft-edge-sometimes-impersonates-other-browsers</link>
+<description>AmiMoJo writes: The new Chromium-based Microsoft Edge will impersonate other browsers depending on the site being visited. This is may be done for compatibility reasons, like properly rendering pages or how video will be streamed and played back. When the new Microsoft Edge starts, it will connect to config.edge.skype.com and download a JSON configuration for the browser. One section of the JSON configuration file is called EdgeDomainActions and is a series of rules that specify what browser Microsoft Edge should impersonate when visiting a particular site.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+New+Microsoft+Edge+Sometimes+Impersonates+Other+Browsers%3A+http%3A%2F%2Fbit.ly%2F2UW3CIV"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F19%2F04%2F23%2F1230218%2Fthe-new-microsoft-edge-sometimes-impersonates-other-browsers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/19/04/23/1230218/the-new-microsoft-edge-sometimes-impersonates-other-browsers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/19/04/23/1230218/the-new-microsoft-edge-sometimes-impersonates-other-browsers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13824946&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/poB1XrXZOwg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2019-04-23T14:00:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>whatever-works</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>74</slash:comments>
+<slash:hit_parade>74,73,37,24,8,4,0</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/19/04/23/1230218/the-new-microsoft-edge-sometimes-impersonates-other-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/19/04/23/0149235/tesla-investigates-after-parked-model-s-appears-to-explode-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tesla Investigates After Parked Model S Appears To Explode In China</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Q0j-v92LdPM/tesla-investigates-after-parked-model-s-appears-to-explode-in-china</link>
+<description>"CNN reports on CCTV footage from China showing a parked Model S bursting violently into flames," writes Slashdot reader dryriver. From the report: Tesla is investigating after one of its vehicles appeared to explode in China. A short video of surveillance footage posted on Chinese social media site Weibo (WB) showed white smoke emerging from what looks like a white Tesla car parked at a lot in Shanghai. After a few seconds, the electric vehicle bursts into flames and the clip ends soon afterward. The video, which was filmed just after 8:15 pm local time on April 21, appears to show a Tesla Model S sedan. It was posted on Chinese social media a couple of hours later and has since been shared widely. The clip attracted a mix of derision and outrage on Weibo. "Us car owners demand an explanation," wrote user Miao Hongyang. "Jeopardizing our safety in a moment's instant and the fact it ignited so quickly is something we will not tolerate." Another Weibo user registered under the name Your Dad, added: "One thing I've learned from this incident: from now on, don't ever park next to a Tesla.'"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tesla+Investigates+After+Parked+Model+S+Appears+To+Explode+In+China%3A+http%3A%2F%2Fbit.ly%2F2Gv4yd6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F19%2F04%2F23%2F0149235%2Ftesla-investigates-after-parked-model-s-appears-to-explode-in-china%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/19/04/23/0149235/tesla-investigates-after-parked-model-s-appears-to-explode-in-china?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/19/04/23/0149235/tesla-investigates-after-parked-model-s-appears-to-explode-in-china?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13819144&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Q0j-v92LdPM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2019-04-23T13:00:00+00:00</dc:date>
+<dc:subject>china</dc:subject>
+<slash:department>to-be-continued</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>220</slash:comments>
+<slash:hit_parade>220,216,131,120,27,11,4</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/19/04/23/0149235/tesla-investigates-after-parked-model-s-appears-to-explode-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/19/04/23/0142244/windows-10s-sets-feature-is-gone-and-not-expected-to-return?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Windows 10's 'Sets' Feature Is Gone and Not Expected To Return</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4lG0FMe_kEY/windows-10s-sets-feature-is-gone-and-not-expected-to-return</link>
+<description>Sets, one of two new features teased in 2017 to be coming to Windows 10, has reportedly been scrubbed. "Microsoft dropped plans for Sets, a Windows-management feature, which would have allowed users to group app data, websites and other information in tabs, months ago," reports ZDNet, citing their sources. "Although Microsoft did test Sets last year with some of its Windows Insider testers, the feature generally wasn't well received or understood. For apps like Office to work well with Sets, the Office engineering team was going to have to do a lot of extra work." From the report: Sets didn't make an reappearance in the Insider test builds leading up to the May 2019 Update/1903, and officials haven't mentioned the Sets feature in months. Over the weekend, Microsoft Senior Program Manager Rich Turner tweeted "The Shell-provided tab experience is no more, but adding tabs is high on our to do list." (That's likely the closest we will get to an "official" comment on the future of the Sets feature.)
+ 
+Turner pointed to a Devblogs.Microsoft.com post originally dated June 29 about tabs coming to the Windows Console. At that point in time, the Console team was planning to use the new Sets feature as the base for adding Tabs in the Windows Console. But since the Windows team has decided against moving forward with Sets, the Console team is now going to have to build Tabs into the Console without using Sets as the foundation, my sources say.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Windows+10's+'Sets'+Feature+Is+Gone+and+Not+Expected+To+Return%3A+http%3A%2F%2Fbit.ly%2F2UQEG5f"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F19%2F04%2F23%2F0142244%2Fwindows-10s-sets-feature-is-gone-and-not-expected-to-return%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/19/04/23/0142244/windows-10s-sets-feature-is-gone-and-not-expected-to-return?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/19/04/23/0142244/windows-10s-sets-feature-is-gone-and-not-expected-to-return?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13819130&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4lG0FMe_kEY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2019-04-23T10:00:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>rest-in-peace</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>73</slash:comments>
+<slash:hit_parade>73,70,48,45,10,6,1</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/19/04/23/0142244/windows-10s-sets-feature-is-gone-and-not-expected-to-return?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/19/04/23/0130204/botanists-rediscover-a-rare-hawaiian-flower-thought-to-be-extinct----thanks-to-a-drone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Botanists Rediscover a Rare Hawaiian Flower Thought To Be Extinct -- Thanks To a Drone</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DZnZcOkoZmw/botanists-rediscover-a-rare-hawaiian-flower-thought-to-be-extinct----thanks-to-a-drone</link>
+<description>Hibiscadelphus woodii, a relative of the hibiscus flower thought to be extinct, has been spotted by a drone on the Hawaiian island of Kauai. The last known sighting of H. woodii was in 2009. Quartz reports: In 2016, Ben Nyberg, a drone specialist, began working with the National Tropical Botanical Garden on Kauai to scope out extreme spots in the verdant valleys of the island. He's found examples of several rare species over the last few years, expanding the number of their individuals known to exist in the wild by a few here and there. But on a sunny day in February 2019, the drone's camera picked up an even more exciting tuft of flora. Nyberg and [botanist Ken Wood who discovered the flower in 1991] stood on a ledge over a sheer wall of green. They'd hiked 700 ft down from the top of the Kalalau Valley cliffs to get there, but couldn't get farther down into the valley, so Nyberg flew a drone another 800 ft down to look at a particularly verdant patch. "It's probably never been looked at," he says. Wood could tell from afar that it was a patch of native vegetation. On an island plagued by invasive plant species, that is always a welcome sight.
+ 
+And then they saw it on the monitor: Hibiscadelphus woodii, like a ghost from the recent past, yet very much alive. They were thrilled. "There were some high fives for sure," Nyberg says. In the drone footage, as the fluted cliffs slowly come into closer view, what first seems to be a carpet of green differentiates itself into individual plants, until eventually an unassuming little tree is in frame. To the untrained eye, it might be lost in the wash of its green surroundings but Wood knew it immediately to be the rare hibiscus relative he discovered in the 1990s. In the video here, you can see it at around the 00:58 mark. As far as Nyberg knows, it's the first time a drone has been used to rediscover a species of plant thought to be extinct.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Botanists+Rediscover+a+Rare+Hawaiian+Flower+Thought+To+Be+Extinct+--+Thanks+To+a+Drone%3A+http%3A%2F%2Fbit.ly%2F2URtUMi"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F19%2F04%2F23%2F0130204%2Fbotanists-rediscover-a-rare-hawaiian-flower-thought-to-be-extinct----thanks-to-a-drone%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/19/04/23/0130204/botanists-rediscover-a-rare-hawaiian-flower-thought-to-be-extinct----thanks-to-a-drone?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/19/04/23/0130204/botanists-rediscover-a-rare-hawaiian-flower-thought-to-be-extinct----thanks-to-a-drone?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13819098&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DZnZcOkoZmw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2019-04-23T07:00:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>lost-and-found</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>42</slash:comments>
+<slash:hit_parade>42,33,17,15,4,2,2</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/19/04/23/0130204/botanists-rediscover-a-rare-hawaiian-flower-thought-to-be-extinct----thanks-to-a-drone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/19/04/22/2258238/greenland-is-melting-even-faster-than-experts-thought-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Greenland Is Melting Even Faster Than Experts Thought, Study Finds</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GFHyEgrlBqo/greenland-is-melting-even-faster-than-experts-thought-study-finds</link>
+<description>An anonymous reader quotes a report from CNN: Climate change is eliminating giant chunks of ice from Greenland at such a speed that the melt has already made a significant contribution to sea level rise, according to a new study. With global warming, the island will lose much more, threatening coastal cities around the world. Forty percent to 50% of the planet's population is in cities that are vulnerable to sea rise, and the study published Monday in the Proceedings of the National Academy of Sciences is bad news for places like New York, Miami, Los Angeles, Tokyo and Mumbai.
+ 
+Researchers reconstructed the mass balance of the Greenland Ice Sheet by comparing estimates of the amount of ice that has been discharged into the ocean with the accumulation of snowfall in the drainage basins in the country's interior for the past 46 years. The researchers found that the rate of ice loss has increased sixfold since then -- even faster than scientists thought. Since 1972, ice loss from Greenland alone has added 13.7 millimeters (about half an inch) to the global sea level, the study estimates. The island's ice sheet is the leading source of water added to the ocean every year.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Greenland+Is+Melting+Even+Faster+Than+Experts+Thought%2C+Study+Finds%3A+http%3A%2F%2Fbit.ly%2F2UPT7Xb"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F19%2F04%2F22%2F2258238%2Fgreenland-is-melting-even-faster-than-experts-thought-study-finds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/19/04/22/2258238/greenland-is-melting-even-faster-than-experts-thought-study-finds?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/19/04/22/2258238/greenland-is-melting-even-faster-than-experts-thought-study-finds?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13818824&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/GFHyEgrlBqo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2019-04-23T03:30:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>don't-blink</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>221</slash:comments>
+<slash:hit_parade>221,205,98,83,20,9,5</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/19/04/22/2258238/greenland-is-melting-even-faster-than-experts-thought-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/19/04/22/2253254/longevity-gene-responsible-for-more-efficient-dna-repair?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'Longevity Gene' Responsible For More Efficient DNA Repair</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/peNND85GlYk/longevity-gene-responsible-for-more-efficient-dna-repair</link>
+<description>Researchers at the University of Rochester have discovered that the gene "sirtuin 6" (SIRT6) is responsible for more efficient DNA repair in species with longer lifespans. "The research illuminates new targets for anti-aging interventions and could help prevent age-related diseases," reports Phys.Org From the report: SIRT6 is often called the "longevity gene" because of its important role in organizing proteins and recruiting enzymes that repair broken DNA; additionally, mice without the gene age prematurely, while mice with extra copies live longer. The researchers hypothesized that if more efficient DNA repair is required for a longer lifespan, organisms with longer lifespans may have evolved more efficient DNA repair regulators. Is SIRT6 activity therefore enhanced in longer-lived species?
+ 
+To test this theory, the researchers analyzed DNA repair in 18 rodent species with lifespans ranging from 3 years (mice) to 32 years (naked mole rats and beavers). They found that the rodents with longer lifespans also experience more efficient DNA repair because the products of their SIRT6 genes -- the SIRT6 proteins -- are more potent. That is, SIRT6 is not the same in every species. Instead, the gene has co-evolved with longevity, becoming more efficient so that species with a stronger SIRT6 live longer. The researchers then analyzed the molecular differences between the weaker SIRT6 protein found in mice versus the stronger SIRT6 found in beavers. They identified five amino acids responsible for making the stronger SIRT6 protein "more active in repairing DNA and better at enzyme functions." When the researchers inserted beaver and mouse SIRT6 into human cells, the beaver SIRT6 better reduced stress-induced DNA damage compared to when researchers inserted the mouse SIRT6. The beaver SIRT6 also better increased the lifespan of fruit flies versus fruit flies with mouse SIRT6. The study has been published in the journal Cell.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='Longevity+Gene'+Responsible+For+More+Efficient+DNA+Repair%3A+http%3A%2F%2Fbit.ly%2F2UO1kLD"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F19%2F04%2F22%2F2253254%2Flongevity-gene-responsible-for-more-efficient-dna-repair%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/19/04/22/2253254/longevity-gene-responsible-for-more-efficient-dna-repair?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/19/04/22/2253254/longevity-gene-responsible-for-more-efficient-dna-repair?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=13818814&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/peNND85GlYk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2019-04-23T01:00:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>preventing-the-inevitable</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>62</slash:comments>
+<slash:hit_parade>62,58,26,19,6,4,1</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/19/04/22/2253254/longevity-gene-responsible-for-more-efficient-dna-repair?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="https://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>https://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
