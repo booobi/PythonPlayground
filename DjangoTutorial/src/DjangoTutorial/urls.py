@@ -20,7 +20,7 @@ from products.views import product_detail_view
 from products.views import product_create_view
 urlpatterns = [
     path('', home_view, name='home'),
-
+    path('home/', home_view, name='home'),
     path('contact/', contact_view, name='contact'),
     path('admin/', admin.site.urls),
     path('product/',product_detail_view),

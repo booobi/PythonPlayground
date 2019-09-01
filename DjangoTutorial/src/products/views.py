@@ -11,5 +11,6 @@ def product_create_view(request):
     objs = Product.objects.all();
     if(form.is_valid()):
         form.save()
+        form = ProductForm()
 
     return render(request, "products/product_create.html", {'form':form, 'products':objs})

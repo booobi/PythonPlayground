@@ -7,21 +7,8 @@
     <title>Home</title>
 </head>
 <body>
-    {{my_html|safe}}
     {% include 'navbar.html' %}
-    {%if products|length != 0%}
-    <ul>
-        {% for item in products %}
-            {%if item == 1 %}
-            <li>{{item|add:1000}}</li>
-            {%else%}
-            <li>{{item}}</li>
-            {%endif%}
-        {%endfor%}
-    </ul>
-    {%else%}
-    <p> no products available </p>
-    {%endif%}
+    
     {% block content %}
     <h1> replace me </h1>
     {% endblock %}
