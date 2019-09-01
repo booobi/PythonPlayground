@@ -1,0 +1,6 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<p>{{obj.title}}</p>
+<p>{% if obj.description is not None %} {{obj.description}} {%else%} Description coming soon! {%endif%}</p>
+{%endblock%}
