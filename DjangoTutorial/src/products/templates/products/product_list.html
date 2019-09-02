@@ -5,7 +5,7 @@
 
 {% for instance in object_list %}
 <ul>
-    <li>{{instance.title}}</li>
+    <li><a href="{{instance.get_absolute_url}}">{{instance.title}}</a></li>
     <li>{{instance.description}}</li>
     <li>{{instance.price}}</li>
 </ul>
