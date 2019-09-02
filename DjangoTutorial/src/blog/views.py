@@ -48,7 +48,7 @@ class ArticleUpdateView(UpdateView):
 class ArticleDeleteView(DeleteView):
     template_name = "articles/article_delete.html"
     queryset = Article.objects.all()
-    
+
     def get_success_url(self):
         return reverse("articles:article-list")
 
