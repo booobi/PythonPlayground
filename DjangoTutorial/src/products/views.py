@@ -4,9 +4,11 @@ from .forms import RawProductForm
 from .forms import ProductForm
 # Create your views here.
 
-def product_detail_view(request):
-    obj = Product.objects.get(id=2)
-    return render(request, "products/product_detail.html", {'obj':obj})
+def product_detail_view(request, id):
+    obj = get_object_or_404(Product, id=id)
+    context = { "object":obj }
+
+    return render(request, "products/product_detail.html", context)
 
 # def product_create_view(request):
 #     context = {}
@@ -29,8 +31,8 @@ def product_create_view(request):
     initial_data = {
             'title': 'This is an awesome title'
     }
-    obj = Product.objects.get(id=3)
-    form = ProductForm(request.POST or None, initial = initial_data, instance = obj)
+    # obj = Product.objects.get(id=3) #TODO: add edit view
+    form = ProductForm(request.POST or None, initial = initial_data)
     if form.is_valid():
         form.save()
         form=ProductForm()
@@ -39,12 +41,6 @@ def product_create_view(request):
         'form':form
     }
     return render(request, "products/product_create.html", context)
-
-def dynamic_lookup_view(request, id):
-    obj = get_object_or_404(Product, id=id)
-    context = { "object":obj }
-
-    return render(request, "products/product_detail.html", context)
 
 def product_delete_view(request, id):
     obj = get_object_or_404(Product, id=id)
